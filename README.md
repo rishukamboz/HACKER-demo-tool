@@ -1,8 +1,40 @@
-# HACKER - Demo Tool
+k# 🧑‍💻 HACKER – Kali Linux Style Demo Tool
 
-⚠️ Disclaimer:
-This tool is for educational and resume purposes only.
-It does NOT perform real hacking.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Linux](https://img.shields.io/badge/Linux-Kali-green)
+![Status](https://img.shields.io/badge/Project-Demo-success)
+![License](https://img.shields.io/badge/License-Educational-important)
 
-## Run on Linux
-python3 hacker.py
+---
+
+## 📌 About Project
+**HACKER** is a Python-based **CLI demo tool** with a **green hacker UI** inspired by **Kali Linux**.  
+This project simulates ethical hacking workflows **only for educational, demo, and resume purposes**.
+
+> ⚠️ **Disclaimer**  
+> This tool does **NOT** perform real hacking.  
+> It is created strictly for learning and portfolio showcase.
+
+---
+
+## 🖥️ Features
+- Kali Linux–style hacker banner  
+- Green terminal UI  
+- Menu-driven interface  
+- Fake hacking simulations  
+- Beginner-friendly Python code  
+
+---
+
+## 📸 Screenshot
+![Tool Screenshot](screenshot.png)
+
+---
+
+## ⚙️ Installation & Run (Linux)
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/rishukamboz/HACKER-demo-tool.git
+o
+
